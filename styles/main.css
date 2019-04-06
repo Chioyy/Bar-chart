@@ -1,0 +1,10 @@
+body {
+  position:relative;
+  padding: 0px;
+  margin: 5% auto auto auto;
+  display: table;
+  background-color: rgb(255, 252, 255);
+}
+.bar:hover {
+  fill: red;
+}
